@@ -1,1 +1,1 @@
-# Analysis-of-Sprocket-Central-Pty-ltd-Using-Power-bi-and-Excel
+# Analysis-of-Sprocket-Central-Pty-ltd-Using-PowerBI-and-Excel
