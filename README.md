@@ -6,7 +6,7 @@
 
 ### [Link to Interactive Dashboard](https://www.novypro.com/profile_projects/adityashankar)
 
-## About the Dataset-
+## About the Dataset:-
 It contain 4 datasets 
 Customer Demographic,Customer Addresses,Transaction data in the past three months,New customer list.
 
