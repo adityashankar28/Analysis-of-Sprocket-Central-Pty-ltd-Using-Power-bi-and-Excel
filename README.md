@@ -1,6 +1,6 @@
 # Analysis And Visualization-of-Sprocket-Central-Pty-ltd-Using-PowerBI-and-Excel-
 
-### 📊 Data Analysis Project 📈 - by Aditya Shankar [LinkedIn](https://www.linkedin.com/in/aditya-shankar-076152169/) | [Github](https://github.com/adityashankar28) | [Live Dashboard](https://www.novypro.com/profile_projects/adityashankar)
+### 📊 Data Analysis Project 📈 - by Aditya Shankar [LinkedIn](https://www.linkedin.com/in/adityashankar28/) | [Github](https://github.com/adityashankar28) | [Live Dashboard](https://www.novypro.com/profile_projects/adityashankar)
 
 ### [Data Source](https://www.theforage.com/modules/m7W4GMqeT3bh9Nb2c/S3uFvbDL49EA43ukg)
 
@@ -32,6 +32,6 @@ In order to increase the share of current customers sales as well as new custome
 In order to increase profit, the sprocket can cross-sell or upsell to their current clients. In addition ,less profitable product lines such as mountain and touring bicycles should be discontinued as soon as possible. This will help the sprocket to continue growing in long run. Thus they can grow brand users and defend their market share through this.
 Therefore all the marketing strategies should be designed in such a way that it will be targeted to these customers only as conversion rate is high with high ROI for such prospects.
 
-### Feel free to go through the dataset and project, and also connect with me on [Linkedin](https://www.linkedin.com/in/aditya-shankar-076152169/)
+### Feel free to go through the dataset and project, and also connect with me on [Linkedin](https://www.linkedin.com/in/adityashankar28/)
 
 
